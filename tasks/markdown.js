@@ -1,6 +1,6 @@
 'use strict';
 
-var markJSON = require('markit-json');
+var markJSON = require('gulp-marked-json');
 var docUtil = require('amazeui-doc-util');
 var rename = require('gulp-rename');
 
